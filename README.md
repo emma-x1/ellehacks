@@ -1,0 +1,1 @@
+Memoize is our submission to ElleHacks2025 - it's an app for the elderly to help them collect and share their memories!
