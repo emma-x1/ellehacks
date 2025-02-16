@@ -1,0 +1,10 @@
+__pycache__
+.DS_Store
+.env
+.venv
+
+venv/
+
+recordings/
+
+ellehacks-project-firebase-adminsdk-fbsvc-955bd1f3ec.json
